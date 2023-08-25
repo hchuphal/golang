@@ -1,16 +1,4 @@
-// Copyright 2023 echuhim
-// 
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-// 
-//     http://www.apache.org/licenses/LICENSE-2.0
-// 
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
+Version Go 1.21 
 
 1. Fast compilation - fast build and test
 2. Fully compiled - keep in the editor
@@ -18,3 +6,14 @@
 4. Concurrent by default
 5. GC - simpler to work but puts performace issues
 6. Simplicity is a core value - not easy or trivial but simple
+
+
+Use cases :  rich in concurrency models and network apis in go allows
+1. Web application - delivering data
+2. Web services - delivering web pages in browsers
+3. Task automation - syntax is light and easy to follow, strong type
+4. Build GUI or thick client
+5. Machine Learning 
+
+
+
